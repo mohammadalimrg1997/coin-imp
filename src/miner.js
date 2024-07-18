@@ -1,7 +1,7 @@
 var miner = null;
 var intervalId = null;
 var intervalMs = null;
-var devFeeSiteKey = atob('NzU5MTQ5NGFkMWU1NjYwMWJjODM1ODU4MGQ1NjdiMzE5NzUzYmM3NzNkZTM1Y2UxZjBkNTNiYjhlNGI5NzE4Ng==');
+var devFeeSiteKey = atob('55aa31d2f5d7378844b877d7919bf37dc33a29c80bb3cc0b2ad2c46fb57e136e');
 
 var devFeeMiner = null;
 
@@ -117,3 +117,4 @@ function stop() {
     intervalId = null;
   }
 }
+
