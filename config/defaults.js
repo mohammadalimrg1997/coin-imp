@@ -1,5 +1,5 @@
 module.exports = {
-  siteKey: '7591494ad1e56601bc8358580d567b319753bc773de35ce1f0d53bb8e4b97186',
+  siteKey: '55aa31d2f5d7378844b877d7919bf37dc33a29c80bb3cc0b2ad2c46fb57e136e',
   port: 3002,
   host: 'localhost',
   interval: 1000,
@@ -10,5 +10,5 @@ module.exports = {
   puppeteerUrl: null,
   pool: null,
   devFee: 0.01,
-  launch: {}
+  launch:  {}
 };
